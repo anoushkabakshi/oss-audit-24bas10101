@@ -9,14 +9,6 @@ Software: Linux Kernel
 ## Project Overview
 This repository contains a structured audit of the Linux Kernel, focusing on its history, licensing (GPL v2), and technical architecture. The project is focused on understanding Free and Open Source Software (FOSS) principles through practical shell scripting and system analysis.
 
-## Software
-**Linux Kernel** 
-**License** - GNU General Public License version 2 (GPL v2)
-
-The Linux kernel is a free and open-source , Unix-like kernel that is used in many computer systems worldwide. The kernel was created by Linus Torvalds in 1991 and was soon adopted as the kernel for the GNU operating system (OS) which was created to be a free replacement for Unix. Linus Torvalds was a student who wanted a free Unix-like system and could not afford one. He wanted to access his university's Unix servers from his 386 PC but found the existing options too expensive or limited. 
-
----
-
 ## Repository Structure
 ```bash
 oss-audit-24bas10101
@@ -27,6 +19,14 @@ oss-audit-24bas10101
 ├── script_4.sh
 └── script_5.sh
 ```
+
+## Software
+**Linux Kernel** 
+**License** - GNU General Public License version 2 (GPL v2)
+
+The Linux kernel is a free and open-source , Unix-like kernel that is used in many computer systems worldwide. The kernel was created by Linus Torvalds in 1991 and was soon adopted as the kernel for the GNU operating system (OS) which was created to be a free replacement for Unix. Linus Torvalds was a student who wanted a free Unix-like system and could not afford one. He wanted to access his university's Unix servers from his 386 PC but found the existing options too expensive or limited. 
+
+---
 
 ## Script Descriptions
 
